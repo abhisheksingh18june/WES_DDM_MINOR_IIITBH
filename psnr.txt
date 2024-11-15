@@ -1,0 +1,45 @@
+PSNR between resized\10_img_.png and rgb\10_img_.png: 27.918755153745472 dB
+PSNR between resized\11_img_.png and rgb\11_img_.png: 27.88948254274652 dB
+PSNR between resized\13_img_.png and rgb\13_img_.png: 28.04227101478061 dB
+PSNR between resized\14_img_.png and rgb\14_img_.png: 28.075967187831438 dB
+PSNR between resized\15_img_.png and rgb\15_img_.png: 27.89962803373279 dB
+PSNR between resized\16_img_.png and rgb\16_img_.png: 28.195882265841767 dB
+PSNR between resized\17_img_.png and rgb\17_img_.png: 27.924988601487946 dB
+PSNR between resized\18_img_.png and rgb\18_img_.png: 27.937501205677133 dB
+PSNR between resized\19_img_.png and rgb\19_img_.png: 27.932917850767247 dB
+PSNR between resized\20.png and rgb\20.png: 27.96724248355619 dB
+PSNR between resized\22_img_.png and rgb\22_img_.png: 27.93217014915538 dB
+PSNR between resized\23_img_.png and rgb\23_img_.png: 28.10354315877884 dB
+PSNR between resized\24_img_.png and rgb\24_img_.png: 27.961253184146745 dB
+PSNR between resized\25_img_.png and rgb\25_img_.png: 28.04176350158606 dB
+PSNR between resized\26_img_.png and rgb\26_img_.png: 27.996716338482774 dB
+PSNR between resized\27_img_.png and rgb\27_img_.png: 27.828298117005957 dB
+PSNR between resized\28_img_.png and rgb\28_img_.png: 28.11588206489088 dB
+PSNR between resized\29_img_.png and rgb\29_img_.png: 27.819417994271358 dB
+PSNR between resized\2_img_.png and rgb\2_img_.png: 27.670940737750193 dB
+PSNR between resized\30_img_.png and rgb\30_img_.png: 27.904979243252054 dB
+PSNR between resized\31.png and rgb\31.png: 27.988738266809662 dB
+PSNR between resized\32_img_.png and rgb\32_img_.png: 27.89621231698177 dB
+PSNR between resized\35.png and rgb\35.png: 27.989744026421786 dB
+PSNR between resized\37_img_.png and rgb\37_img_.png: 27.92096688776764 dB
+PSNR between resized\39_img_.png and rgb\39_img_.png: 28.0226502283518 dB
+PSNR between resized\3_img_.png and rgb\3_img_.png: 27.918881586346952 dB
+PSNR between resized\4.png and rgb\4.png: 27.769381588038897 dB
+PSNR between resized\41_img_.png and rgb\41_img_.png: 27.99085033163835 dB
+PSNR between resized\42_img_.png and rgb\42_img_.png: 27.93739239921876 dB
+PSNR between resized\43_img_.png and rgb\43_img_.png: 27.9683498799781 dB
+PSNR between resized\44_img_.png and rgb\44_img_.png: 27.97127940580426 dB
+PSNR between resized\45_img_.png and rgb\45_img_.png: 28.04214937934905 dB
+PSNR between resized\46_img_.png and rgb\46_img_.png: 28.019971802368858 dB
+PSNR between resized\48_img_.png and rgb\48_img_.png: 27.917785258328863 dB
+PSNR between resized\49_img_.png and rgb\49_img_.png: 27.97609848693709 dB
+PSNR between resized\4_img_.png and rgb\4_img_.png: 27.967689876011036 dB
+PSNR between resized\50_img_.png and rgb\50_img_.png: 28.20816919474382 dB
+PSNR between resized\51_img_.png and rgb\51_img_.png: 27.879944446139277 dB
+PSNR between resized\6_img_.png and rgb\6_img_.png: 27.811130769989468 dB
+PSNR between resized\7_img_.png and rgb\7_img_.png: 27.66292346323288 dB
+PSNR between resized\8_img_.png and rgb\8_img_.png: 28.067736523876157 dB
+PSNR between resized\9_img_.png and rgb\9_img_.png: 27.919594179671353 dB
+
+
+Average PSNR: 27.952553360178406 dB

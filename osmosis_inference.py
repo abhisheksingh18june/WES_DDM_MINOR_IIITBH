@@ -115,11 +115,16 @@ def main():
     for i, (ref_img, ref_img_name) in enumerate(loader):
         # in case there is a GT image (if ground truth is used)
         if gt_flag:
+            # Extracting the ground truth RGB image
             gt_rgb_img = ref_img[1].squeeze()
+            # Scaling to [0,1] from [-1,1]
             gt_rgb_img_01 = 0.5 * (gt_rgb_img + 1)
 
+            # Extracting the ground truth depth image
             gt_depth_img = ref_img[2].squeeze()
+            # Scaling to [0,1] from [-1,1]
             gt_depth_img_01 = 0.5 * (gt_depth_img + 1)
+            # Converting to color image
             gt_depth_img_01 = utilso.depth_tensor_to_color_image(gt_depth_img_01)
 
             ref_img = ref_img[0]

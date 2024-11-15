@@ -1,0 +1,45 @@
+SIM between resized\10_img_.png and rgb\10_img_.png: 0.4302+0.0000j
+SSIM between resized\11_img_.png and rgb\11_img_.png: 0.2978+0.0000j
+SSIM between resized\13_img_.png and rgb\13_img_.png: 0.4467+0.0000j
+SSIM between resized\14_img_.png and rgb\14_img_.png: 0.3438+0.0000j
+SSIM between resized\15_img_.png and rgb\15_img_.png: 0.3306+0.0000j
+SSIM between resized\16_img_.png and rgb\16_img_.png: 0.4036+0.0000j
+SSIM between resized\17_img_.png and rgb\17_img_.png: 0.2360+0.0000j
+SSIM between resized\18_img_.png and rgb\18_img_.png: 0.2557+0.0000j
+SSIM between resized\19_img_.png and rgb\19_img_.png: 0.2901+0.0000j
+SSIM between resized\20.png and rgb\20.png: 0.1593+0.0000j
+SSIM between resized\22_img_.png and rgb\22_img_.png: 0.2857+0.0000j
+SSIM between resized\23_img_.png and rgb\23_img_.png: 0.2983+0.0000j
+SSIM between resized\24_img_.png and rgb\24_img_.png: 0.2757+0.0000j
+SSIM between resized\25_img_.png and rgb\25_img_.png: 0.2452+0.0000j
+SSIM between resized\26_img_.png and rgb\26_img_.png: 0.4645+0.0000j
+SSIM between resized\27_img_.png and rgb\27_img_.png: 0.3585+0.0000j
+SSIM between resized\28_img_.png and rgb\28_img_.png: 0.4247+0.0000j
+SSIM between resized\29_img_.png and rgb\29_img_.png: 0.3823+0.0000j
+SSIM between resized\2_img_.png and rgb\2_img_.png: 0.3707+0.0000j
+SSIM between resized\30_img_.png and rgb\30_img_.png: 0.2765+0.0000j
+SSIM between resized\31.png and rgb\31.png: 0.1578+0.0000j
+SSIM between resized\32_img_.png and rgb\32_img_.png: 0.3021+0.0000j
+SSIM between resized\35.png and rgb\35.png: 0.1617+0.0000j
+SSIM between resized\37_img_.png and rgb\37_img_.png: 0.2213+0.0000j
+SSIM between resized\39_img_.png and rgb\39_img_.png: 0.2838+0.0000j
+SSIM between resized\3_img_.png and rgb\3_img_.png: 0.2966+0.0000j
+SSIM between resized\4.png and rgb\4.png: 0.3906+0.0000j
+SSIM between resized\41_img_.png and rgb\41_img_.png: 0.2004+0.0000j
+SSIM between resized\42_img_.png and rgb\42_img_.png: 0.1898+0.0000j
+SSIM between resized\43_img_.png and rgb\43_img_.png: 0.2901+0.0000j
+SSIM between resized\44_img_.png and rgb\44_img_.png: 0.2810+0.0000j
+SSIM between resized\45_img_.png and rgb\45_img_.png: 0.2408+0.0000j
+SSIM between resized\46_img_.png and rgb\46_img_.png: 0.4015+0.0000j
+SSIM between resized\48_img_.png and rgb\48_img_.png: 0.7051+0.0000j
+SSIM between resized\49_img_.png and rgb\49_img_.png: 0.2591+0.0000j
+SSIM between resized\4_img_.png and rgb\4_img_.png: 0.2048+0.0000j
+SSIM between resized\50_img_.png and rgb\50_img_.png: 0.4407+0.0000j
+SSIM between resized\51_img_.png and rgb\51_img_.png: 0.3529+0.0000j
+SSIM between resized\6_img_.png and rgb\6_img_.png: 0.5025+0.0000j
+SSIM between resized\7_img_.png and rgb\7_img_.png: 0.5086+0.0000j
+SSIM between resized\8_img_.png and rgb\8_img_.png: 0.5780+0.0000j
+SSIM between resized\9_img_.png and rgb\9_img_.png: 0.4202+0.0000j
+
+
+Average SSIM: 0.3325+0.0000j
